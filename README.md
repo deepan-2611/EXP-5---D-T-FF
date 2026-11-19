@@ -158,7 +158,8 @@ Q(next) = T ⊕ Q   (T Flip-Flop)
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 **## Output**
-<img width="1920" height="1080" alt="output" src="https://github.com/user-attachments/assets/91e05805-20ba-4203-8199-1130e3922ccf" />
+<img width="1920" height="1080" alt="output" src="https://github.com/user-attachments/assets/052b1222-fffe-4be4-9c1b-7cbb82077fcb" />
+
 
 
 ## Viva-Voce Questions
